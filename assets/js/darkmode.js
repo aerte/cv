@@ -14,7 +14,7 @@ if (systemInitiatedDark.matches) {
 
 function prefersColorTest(systemInitiatedDark) {
   if (systemInitiatedDark.matches) {
-    document.documentElement.setAttribute("data-theme", "dark");
+    document.documentElement.setAttribute("data-theme", "light");
     document.getElementById("theme-toggle").innerHTML = sun;
     sessionStorage.setItem("theme", "");
   } else {

@@ -11,20 +11,16 @@ tagshort: Jekyll theme
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Felix Aertebjerg
+  email: aertebjerg.felix@gmail.com
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+address: Pladehals Alle 53, 2450 Copenhagen
+phone: +45 61486669
 
 # social media links
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  x: username
+  github: aerte
+  linkedin: felix-aertebjerg
 
 # build settings
 permalink: pretty
